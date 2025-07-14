@@ -50,11 +50,13 @@ A simple bookshelf web application created using **HTML**, **CSS**, and **JavaSc
 
 ## 🗂 Folder Structure
 
-📁 bookshelf-app/
+ ```bash
+   📁 bookshelf-app/
 ├── index.html # Main HTML page
 ├── main.js # Application logic
 ├── style.css # Styling file
 ├── README.md # Project documentation
+   ```
 
 ## 🛠 How to Use
 

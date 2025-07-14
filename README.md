@@ -6,9 +6,8 @@ A simple bookshelf web application created using **HTML**, **CSS**, and **JavaSc
 
 ## 📷 Preview
 
-![Bookshelf App - Add Book Form](./preview-1.png)
-![Bookshelf App - Book Shelves](./preview-2.png)
-![VSCode Structure](./preview-structure.png)
+![Bookshelf App - preview](assets/image.png)
+![Bookshelf App - close preview](assets/image-1.png)
 
 ---
 
